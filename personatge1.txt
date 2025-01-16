@@ -1,0 +1,5 @@
+Nom: asdf
+
+Atributs: 10
+
+Descripció: adsfadfafa asdasdf
