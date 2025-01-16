@@ -1,5 +1,7 @@
 Nom: asdf
 
+Habilitats: Dispara, Kung Fu.
+
 Atributs: 10
 
 Descripció: adsfadfafa asdasdf
