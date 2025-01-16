@@ -7,3 +7,5 @@ Atributs: 10
 Descripció: adsfadfafa asdasdf
 
 Hist: asdfa
+
+Estat: 1, 2.
