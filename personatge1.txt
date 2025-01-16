@@ -1,5 +1,12 @@
 Nom: asdf
 
+Habilitats: Dispara, Kung Fu.
+
 Atributs: 10
 
 Descripció: adsfadfafa asdasdf
+
+Hist: asdfa
+
+Inventari: Pistola, martell.
+Estat: 1, 2, 3.
